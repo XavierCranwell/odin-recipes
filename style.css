@@ -1,9 +1,14 @@
 * {
+    background-color: gold;
     border: 2px solid fuchsia
 }
 
 li {
-    color: blue;
-    background-color: goldenrod;
+    color: black;
+    background-color:azure
 }
 
+img {
+    height: auto;
+    width: 300px;
+}

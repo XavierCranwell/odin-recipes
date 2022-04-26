@@ -1,9 +1,9 @@
 * {
-    color: darkred;
-    background-color: black;
+    border: 2px solid fuchsia
 }
 
 li {
     color: blue;
     background-color: goldenrod;
 }
+
